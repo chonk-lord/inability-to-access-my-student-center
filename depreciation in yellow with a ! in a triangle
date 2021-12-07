@@ -1,0 +1,1 @@
+VM447 PT_AJAX_NET_MIN_1.js:145 [Deprecation] Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check https://xhr.spec.whatwg.org/.
