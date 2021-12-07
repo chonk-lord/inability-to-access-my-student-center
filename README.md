@@ -1,0 +1,2 @@
+# inability-to-access-my-student-center
+so, i am not a coder, nor do i have any inkling of what to do in the world of computers. i am a upper class junior at CUNY, and i am unable to access my fucing CUNYFirst. Out of sheer desperation, i opened up the script for the page, and some error codes have been displayed. anyone that can help me solve this is a great person. i am a broke student, and i dont have anything to give you for your efforts, but you can have a golden star for your efforts! 
